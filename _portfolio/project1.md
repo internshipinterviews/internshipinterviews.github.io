@@ -1,6 +1,6 @@
 ---
 title: Easy DS/A
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: Get normal tech jobs/internships
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
