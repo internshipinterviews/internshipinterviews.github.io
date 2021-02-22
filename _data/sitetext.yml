@@ -14,10 +14,10 @@ services:
         icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "Algorithms"
         desc: "BFS, DFS, Topological sort, Binary Search, Greedy Algorithms, Dynamic Programming, Backtracking, Sorting..."
-        icon: fas fa-tachometer-fast       
+        icon: fa fa-tachometer-fast       
       - title: "Communication"
         desc: "Behavioral questions, test cases, and what interviewers look for beyond solving the problem"
-        icon: fab fa-user-tie
+        icon: fas fa-user-tie
 
 portfolio:
     title: "Classes"
