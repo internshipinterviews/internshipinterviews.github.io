@@ -11,7 +11,7 @@ caption:
 ---
 Here you will learn something most people don't focus on: how to actually get the job. Techical skills from the other two courses are just the start. 
 
-We will cover: resume design and critiques, common behavioral interview topics and mistakes, the best way to apply for jobs, the referral process, what to do if you can't answer a technical quesetion to pass the interview, the best resources for tech careers and job/internship hunts, and more.  
+We will cover resume design and critiques, common behavioral interview topics and mistakes, the best way to apply for jobs, the referral process, what to do if you can't answer a technical quesetion, workplace networking, optimized linkedin profile design, and more.  
 
 {:.list-inline}
 - Date: TBD
