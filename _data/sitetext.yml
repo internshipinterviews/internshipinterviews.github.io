@@ -22,7 +22,7 @@ services:
 classes:
     title: "Classes"
     text: "We offer courses to take you to the offer and beyond"
-    section: portfolio
+    section: classes
     
 
 timeline:
