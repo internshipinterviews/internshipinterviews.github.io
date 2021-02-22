@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Internship Interviews
-email      : akazmi30@gatech.edu #this is also the email contact forms will go to
+email      : interninterviewprep@gmail.com #this is also the email contact forms will go to
 description: "Learn to pass internship coding interviews! "
 author     : Ali Kazmi
 # logo:     #optional, defaults to site title
