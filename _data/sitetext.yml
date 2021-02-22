@@ -6,14 +6,14 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "What you'll learn"
     section: services
     list:
       - title: "Data Structures"
-        desc: "Stacks, Queues, Heaps, HashMaps, Trees..."
+        desc: "Arrays, Strings, Linked Lists, Stacks, Queues, Heaps, HashMaps, Trees, Graphs, Matrices, Tries..."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Algorithms"
-        desc: "BFS, DFS, Topological sort, Dynamic Programming, Backtracking, Sorting..."
+        desc: "BFS, DFS, Topological sort, Binary Search, Greedy Algorithms, Dynamic Programming, Backtracking, Sorting..."
         icon: fas fa-laptop       
       - title: "Communication"
         desc: "Behavioral questions, test cases, and what interviewers look for beyond solving the problem"
@@ -63,12 +63,12 @@ about:
     
 team:
     title: "OUR TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Will be growing soon!"
     subtext: We have experienced instructors who have recently navigated the internship search themselves
     section: team
     people:
       - name: "Ali Kazmi"
-        role: "Instructor"
+        role: "Instructor and Founder"
         image: assets/img/team/2.jpg
         social:
           - url: https://linkedin.com/in/alirkazmi
@@ -76,7 +76,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Email interninterviewprep@gmail.com to get in touch! Signup details for the classes will be posted here soon"
     section: contact
     
 footer:
