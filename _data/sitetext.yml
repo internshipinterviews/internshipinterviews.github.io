@@ -19,8 +19,8 @@ services:
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-portfolio:
-    title: "Courses"
+classes:
+    title: "Classes"
     text: "We offer courses to take you to the offer and beyond"
     section: portfolio
     
