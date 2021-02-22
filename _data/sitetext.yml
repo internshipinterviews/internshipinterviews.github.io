@@ -16,7 +16,7 @@ services:
         desc: "BFS, DFS, Topological sort, Binary Search, Greedy Algorithms, Dynamic Programming, Backtracking, Sorting... fast algorithmic solutions to problems"
         icon: fa fa-tachometer-alt       
       - title: "Communication"
-        desc: "Behavioral questions, test cases, and what interviewers look for beyond solving the problem"
+        desc: "Behavioral questions and what interviewers look for beyond solving the problem"
         icon: fas fa-bullhorn
 
 portfolio:
