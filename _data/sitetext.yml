@@ -30,35 +30,35 @@ timeline:
     text: "Lorem ipsum timeline"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Humble Beginnings"
+        year: "Fall 2019"
+        desc: "Intered at a local company, simplepart, part time while I was in college. I learned basic development skills here."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      -title: " Research institute "
+        year: "Summer 2020"
+        desc: "Interned at a research institute GTRI, built a website using angular and javascript."
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Interned at a tech company, UKG (ultimte software) "
+        year: "Fall 2020"
+        desc: "Went further into web development, and started interview preparation on DS/A topics"
+        image: assets/img/timeline/2.jpg
+        alt: 
+        align: right
+      - title: "FAANG"
+        year: "Summer 2021"
+        desc: "Got multiple high paying offers from Amazon, Capital One, and others for summer 2021. Now my goal is to help you get the same thing!"
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Make <br> YOUR <br> Story!"
 
 about:
-    title: "About Us"
-    text: "our story"
+    title: "About ME"
+    text: "My story"
     section: about
 
 clients:
