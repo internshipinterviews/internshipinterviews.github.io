@@ -36,7 +36,7 @@ timeline:
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      -title: " Research institute "
+      - title: " Research institute "
         year: "Summer 2020"
         desc: "Interned at a research institute GTRI, built a website using angular and javascript."
         image: assets/img/timeline/2.jpg
