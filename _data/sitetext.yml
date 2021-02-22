@@ -10,13 +10,13 @@ services:
     section: services
     list:
       - title: "Data Structures"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Stacks, Queues, Heaps, HashMaps, Trees..."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Algorithms"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "BFS, DFS, Topological sort, Dynamic Programming, Backtracking, Sorting..."
         icon: fas fa-laptop       
       - title: "Communication"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Behavioral questions, test cases, and what interviewers look for beyond solving the problem"
         icon: fab fa-markdown
 
 portfolio:
