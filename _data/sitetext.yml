@@ -11,13 +11,13 @@ services:
     list:
       - title: "Data Structures"
         desc: "Arrays, Strings, Linked Lists, Stacks, Queues, Heaps, HashMaps, Trees, Graphs, Matrices, Tries..."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "Algorithms"
         desc: "BFS, DFS, Topological sort, Binary Search, Greedy Algorithms, Dynamic Programming, Backtracking, Sorting..."
-        icon: fas fa-laptop       
+        icon: fas fa-tachometer-fast       
       - title: "Communication"
         desc: "Behavioral questions, test cases, and what interviewers look for beyond solving the problem"
-        icon: fab fa-markdown
+        icon: fab fa-user-tie
 
 portfolio:
     title: "Classes"
