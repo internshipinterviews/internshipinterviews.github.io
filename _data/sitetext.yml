@@ -10,10 +10,10 @@ services:
     section: services
     list:
       - title: "Data Structures"
-        desc: "Arrays, Strings, Linked Lists, Stacks, Queues, Heaps, HashMaps, Trees, Graphs, Matrices, Tries..."
+        desc: "Arrays, Strings, Linked Lists, Stacks, Queues, Heaps, HashMaps, Trees, Graphs, Matrices, Tries... store and access data efficiently"
         icon: fas fa-database #find more at https://fontawesome.com/icons
       - title: "Algorithms"
-        desc: "BFS, DFS, Topological sort, Binary Search, Greedy Algorithms, Dynamic Programming, Backtracking, Sorting..."
+        desc: "BFS, DFS, Topological sort, Binary Search, Greedy Algorithms, Dynamic Programming, Backtracking, Sorting... fast algorithmic solutions to problems"
         icon: fa fa-tachometer-alt       
       - title: "Communication"
         desc: "Behavioral questions, test cases, and what interviewers look for beyond solving the problem"
