@@ -1,7 +1,7 @@
 ---
 title: Easy DS/A
 subtitle: Get normal tech jobs/internships
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/dsa_img.jpeg
 alt: Shirts on a hanger
 
 caption:
