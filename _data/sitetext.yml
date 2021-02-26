@@ -1,7 +1,7 @@
 header:
-    title: Welcome to my class!
-    text: It's Nice To Meet You
-    button: Interviewing Course
+    title: Welcome!
+    text: Get Tech Internships
+    button: Courses
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
