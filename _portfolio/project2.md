@@ -5,7 +5,7 @@ image: https://rawcdn.githack.com/internshipinterviews/internshipinterviews.gith
 alt: Keep Exploring
 
 caption:
-  title: Intermediate Data Structures/Algos
+  title: Intermediate DS/A 
   subtitle: FAANG+
   thumbnail: https://rawcdn.githack.com/internshipinterviews/internshipinterviews.github.io/dfd4489d9ec18de64ff1fb55a16e2a3f2288f5e3/assets/img/portfolio/dsa2_img.png
 ---
