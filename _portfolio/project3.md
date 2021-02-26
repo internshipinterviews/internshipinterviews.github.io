@@ -1,7 +1,7 @@
 ---
 title: Non-technical skills
 subtitle: Get the job
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/behavioral_interviews.png
+image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
