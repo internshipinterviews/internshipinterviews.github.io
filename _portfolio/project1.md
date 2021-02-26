@@ -9,7 +9,7 @@ caption:
   subtitle: Non-faang Tech companies
   thumbnail: https://rawcdn.githack.com/internshipinterviews/internshipinterviews.github.io/c53d3657584355d0dbbd3f7a27fb5a0d40e7e279/assets/img/portfolio/dsa_img.jpeg
 ---
-You will learn to solve leetcode easy problems, from the beginning. This course assumes you can program in Java (if you know a mainstream language like Python or Javascript you can catch up on java in a week or so). We will cover Arrays, Strings, Stacks, Queues, Heaps, Hashmaps, Dynamic Programming, BFS/DFS and more. Keep an eye on this page for a full course schedule and timeline. There will also be a one hour crash course on all of the nontechnical aspects of getting the job. 
+You will learn to solve leetcode easy problems, from the beginning. This course assumes you can program in Java (if you know a mainstream language like Python or Javascript you can catch up on java in a week or so). We will cover Arrays, Strings, Stacks, Queues, Heaps, Hashmaps, Dynamic Programming, BFS/DFS and more. Keep an eye on this page for a full course schedule and timeline. There will also be a one hour crash course on all of the nontechnical aspects of getting the job. Lectures will be on zoom, and there will be a discord server where I will answer questions and you can network with other students.
 
 By the end of this course you will be prepared for non-faang interviews. The instructor, Ali, has had offers from all of the below. (offers not guaranteed, these are intended to give you an idea of what you could achieve after this course). 
 
@@ -23,6 +23,5 @@ This course will also prepare you for our Intermediate DS/A course, which will f
 - Client: Data Structures/Algorithms 
 - Category: Non-Faang Jobs
 - Hours of instruction: 10 hours of lecture, 
-- Other: discord where I will answer questions and you can network with other students
 - Cost: $100 a student
 
