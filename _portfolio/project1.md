@@ -1,6 +1,6 @@
 ---
 title: Easy DS/A
-subtitle: Get normal tech jobs/internships
+subtitle: Land Tech internships
 image: https://rawcdn.githack.com/internshipinterviews/internshipinterviews.github.io/c53d3657584355d0dbbd3f7a27fb5a0d40e7e279/assets/img/portfolio/dsa_img.jpeg
 alt: Shirts on a hanger
 
@@ -14,7 +14,7 @@ You will learn to solve leetcode easy problems, from the beginning. This course 
 By the end of this course you will be prepared for non-faang interviews. The instructor, Ali, has had offers from all of the below. (offers not guaranteed, these are intended to give you an idea of what you could achieve after this course). 
 
 Example companies: banks (JP morgan chase, Capital 
-ne), Medium sized tech companies (UKG), research labs (GTRI) 
+ne), Medium sized tech companies (UKG), research labs (GTRI), local companies  
 
 This course will also prepare you for our Intermediate DS/A course, which will focus on FAANG and other top companies prep and tackle tougher content. Note: if the cost is too high, we do offer 100% financial aid on a need basis. Reach out to me on linkedin for it. 
 
