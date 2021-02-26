@@ -1,13 +1,13 @@
 ---
 title: Non-technical skills
 subtitle: Get the job
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+image: https://rawcdn.githack.com/internshipinterviews/internshipinterviews.github.io/dfd4489d9ec18de64ff1fb55a16e2a3f2288f5e3/assets/img/portfolio/behavioral_interviews.png
 alt: 
 
 caption:
   title: Non-technical skills
   subtitle: Interviewing
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: https://rawcdn.githack.com/internshipinterviews/internshipinterviews.github.io/dfd4489d9ec18de64ff1fb55a16e2a3f2288f5e3/assets/img/portfolio/behavioral_interviews.png
 ---
 Here you will learn something most people don't focus on: how to actually get the job. Techical skills from the other two courses are just the start. Getting a job is 2 steps: get interviews, pass interviews. This course will talk about getting interviews as well as passing nontechnical interviews. 
 
