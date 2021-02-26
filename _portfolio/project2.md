@@ -1,7 +1,7 @@
 ---
 title: Intermediate Data Structures/Algos
 subtitle: Get 6 figure jobs 
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/dsa2_img.png
+image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
