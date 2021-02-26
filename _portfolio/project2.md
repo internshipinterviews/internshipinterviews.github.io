@@ -19,6 +19,6 @@ Topics:
 {:.list-inline}
 - Date: TBD
 - Client: Explore
-- Cost: $200
+- Cost: TBD
 - Category: FAANG
 
