@@ -69,7 +69,7 @@ team:
     people:
       - name: "Ali Kazmi"
         role: "Instructor and Founder"
-        image: assets/img/team/IMG_5874.png
+        image: assets/img/team/prof.jpeg
         social:
           - url: https://linkedin.com/in/alirkazmi
             icon: fab fa-linkedin-in
