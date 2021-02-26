@@ -16,7 +16,7 @@ By the end of this course you will be prepared for non-faang interviews. The ins
 Example companies: banks (JP morgan chase, Capital 
 ne), Medium sized tech companies (UKG), research labs (GTRI) 
 
-This course will also prepare you for our Intermediate DS/A course, which will focus on FAANG and other top companies prep and tackle tougher content. 
+This course will also prepare you for our Intermediate DS/A course, which will focus on FAANG and other top companies prep and tackle tougher content. Note: if the cost is too high, we do offer 100% financial aid on a need basis. Reach out to me on linkedin for it. 
 
 {:.list-inline}
 - Date: May to August 2021 
@@ -24,5 +24,5 @@ This course will also prepare you for our Intermediate DS/A course, which will f
 - Category: Non-Faang Jobs
 - Hours of instruction: 10 hours of lecture, 
 - Other: discord where I will answer questions and you can network with other students
-- Cost: $100 a student 
+- Cost: $100 a student
 
