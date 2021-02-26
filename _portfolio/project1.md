@@ -13,11 +13,7 @@ You will learn to solve leetcode easy problems, from the beginning. This course 
 
 By the end of this course you will be prepared for non-faang interviews. The instructor, Ali, has had offers from all of the below. (offers not guaranteed, these are intended to give you an idea of what you could achieve after this course). 
 
-Example companies: 
-{:.list-inline}
-- banks (JP morgan chase, Capital one) 
-- Medium sized tech companies (UKG)  
-- research labs (GTRI) 
+Example companies: banks (JP morgan chase, Capital one), Medium sized tech companies (UKG), research labs (GTRI) 
 
 This course will also prepare you for our Intermediate DS/A course, which will focus on FAANG and other top companies prep, but tackling tougher content. 
 
