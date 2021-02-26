@@ -5,7 +5,7 @@ image: https://rawcdn.githack.com/internshipinterviews/internshipinterviews.gith
 alt: Shirts on a hanger
 
 caption:
-  title: Intro to Data Structures/Algorithms 
+  title: Intro to DS/A 
   subtitle: Non-faang Tech companies
   thumbnail: https://rawcdn.githack.com/internshipinterviews/internshipinterviews.github.io/c53d3657584355d0dbbd3f7a27fb5a0d40e7e279/assets/img/portfolio/dsa_img.jpeg
 ---
